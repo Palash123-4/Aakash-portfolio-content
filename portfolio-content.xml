@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+  <meta>
+    <title>Aakash Chowdhury</title>
+    <description>Under the supervision of Elisabeth Oswald, I recently completed my doctoral thesis on statistical and machine-learning methods for side-channel security evaluation. I am currently working on an interdisciplinary project on the notion of "explainability" in side-channel security evaluation. Before my PhD, I completed my Bachelor&apos;s and Master&apos;s degrees in Statistics from Presidency University, Kolkata, and the University of Calcutta, respectively.</description>
+  </meta>
+
+  <header>
+    <logo>Aakash Chowdhury<span>.</span></logo>
+    <nav>
+      <item href="#recent-activities">Research Interests</item>
+      <item href="#publications">Publications</item>
+      <item href="#projects">Projects</item>
+      <item href="#experience">Experience</item>
+      <item href="#contact">Contact</item>
+    </nav>
+  </header>
+
+  <hero>
+    <kicker>SECURITY RESEARCHER · MACHINE LEARNING &amp; AI ENTHUSIAST</kicker>
+    <headline>Making sense of&lt;br&gt;&lt;em&gt;leakage.&lt;/em&gt;</headline>
+    <intro>Under <strong>Elisabeth Oswald</strong>, I recently completed my doctoral thesis titled "Towards the Advancement of Side-Channel Security Evaluation through Statistical and Machine Learning Methods" at the University of Klagenfurt, Austria, 
+    and I plan to defend it by January 2027. Currently, I am working on an interdisciplinary project exploring "explainability" in <span class="intro-highlight">side-channel leakage assessment</span>. I hold Bachelor&apos;s and Master&apos;s degrees in <span class="intro-highlight">Statistics</span> from Presidency University, Kolkata, and the University of Calcutta, so anything related to applied machine learning methods in security research interests me.</intro>
+    <cta>
+      <button href="#recent-activities" class="btn blue">My research <span>↗</span></button>
+      <button href="assets/Aakash_Chowdhury_CV.pdf" class="btn outline" target="_blank">Curriculum vitae</button>
+    </cta>
+    <quicklinks>
+      <link href="https://orcid.org/0009-0006-1469-763X" target="_blank">ORCID</link>
+      <link href="https://www.researchgate.net/profile/Aakash-Chowdhury-2" target="_blank">ResearchGate</link>
+      <link href="https://www.linkedin.com/in/aakash-chowdhury-a6521912a/" target="_blank">LinkedIn</link>
+      <link href="https://github.com/Palash123-4" target="_blank">GitHub</link>
+    </quicklinks>
+    <photo>
+      <src>assets/aakash-lake.jpg</src>
+      <alt>Aakash sitting beside Lake Bled in Austria</alt>
+      <caption></caption>
+      <captionText>Curiosity outside the lab.</captionText>
+    </photo>
+  </hero>
+
+  <ticker>
+    <topic>MACHINE LEARNING</topic>
+    <topic>EXPLAINABLE AI</topic>
+    <topic>CRYPTOLOGY</topic>
+    <topic>SIDE-CHANNEL ANALYSIS</topic>
+    <topic>INFORMATION SECURITY</topic>
+  </ticker>
+
+  <recentActivities>
+    <sectionLabel>RESEARCH INTERESTS</sectionLabel>
+    <title>Exploring security research</title>
+    <description>My recent work focuses on statistical and machine-learning methods for profiled and non-profiled side-channel security evaluation, including leakage detection, leakage certification, efficient leakage exploitation, and explainable security assessment.</description>
+    <cards>
+      <card class="cyan">
+        <number>01</number>
+        <icon>⌁</icon>
+        <title>Explainable AI for leakage assessment</title>
+        <description>Developing interpretable, data-driven methods to understand how leakage signals emerge and how they should be assessed in practice.</description>
+        <keywords>
+          <keyword>Explainability</keyword>
+          <keyword>Feature attribution</keyword>
+          <keyword>Security evaluation</keyword>
+        </keywords>
+      </card>
+      <card class="orange">
+        <number>02</number>
+        <icon>↗</icon>
+        <title>Efficient leakage exploitation</title>
+        <description>Studying practical attacks that recover sensitive information with fewer traces and improved statistical efficiency.</description>
+        <keywords>
+          <keyword>Key recovery</keyword>
+          <keyword>Trace efficiency</keyword>
+          <keyword>Attack modeling</keyword>
+          <keyword>DL-SCA</keyword>
+        </keywords>
+      </card>
+      <card class="violet">
+        <number>03</number>
+        <icon>∫</icon>
+        <title>Multivariate leakage detection</title>
+        <description>Applied multivariate and univariate statistical tests to detect hidden leakage in embedded cryptographic implementations.</description>
+        <keywords>
+          <keyword>Distance covariance</keyword>
+          <keyword>Hypothesis testing</keyword>
+          <keyword>DL-LA</keyword>
+        </keywords>
+      </card>
+      <card class="cyan">
+        <number>04</number>
+        <icon>◎</icon>
+        <title>Leakage certification</title>
+        <description>Studied mutual-information-based certification methods and rigorous statistical evidence for security claims.</description>
+        <keywords>
+          <keyword>Leakage evaluation</keyword>
+          <keyword>Certification</keyword>
+          <keyword>Information theory</keyword>
+        </keywords>
+      </card>
+    </cards>
+  </recentActivities>
+
+  <publications>
+    <sectionLabel>PUBLICATIONS</sectionLabel>
+    <title>Selected&lt;br&gt;&lt;em&gt;publications.&lt;/em&gt;</title>
+    <moreLink href="https://orcid.org/0009-0006-1469-763X" target="_blank">More on ORCID ↗</moreLink>
+    <items>
+      <item featured="true">
+        <year>2026</year>
+        <venue>IACR TCHES · VOLUME 2026, ISSUE 2</venue>
+        <title>Multivariate Leakage Detection</title>
+        <description><strong>Aakash Chowdhury</strong> &amp; Elisabeth Oswald. A study of non-specific multivariate leakage detection methods, including distance covariance and classical multivariate approaches, with simulated and practical side-channel case studies.</description>
+        <links>
+          <link href="https://tches.iacr.org/index.php/TCHES/article/view/12890/12517">Paper ↗</link>
+          <link href="https://artifacts.iacr.org/tches/2026/a12/">Artifacts ↗</link>
+        </links>
+        <mark>TCHES&lt;br&gt;&lt;small&gt;2026&lt;/small&gt;</mark>
+      </item>
+      <item>
+        <year>2024</year>
+        <venue>CRYPTO 2024 · IACR</venue>
+        <title>Leakage Certification Made Simple</title>
+        <description><strong>Aakash Chowdhury</strong>, Carlo Brunetta, Arnab Roy &amp; Elisabeth Oswald. Mutual-information-based approaches and implementations for side-channel leakage certification.</description>
+        <links>
+          <link href="https://link.springer.com/chapter/10.1007/978-3-031-68391-6_13">Paper ↗</link>
+          <link href="https://github.com/sca-research/Leakage-Certification-Made-Simple">Artifacts ↗</link>
+        </links>
+      </item>
+      <more>
+        <summary>Earlier publications in statistics &amp; data science</summary>
+        <entry><b>Prevalence of metabolic syndrome in women with polycystic ovary syndrome and the factors associated.</b> Diabetes &amp; Metabolic Syndrome: Clinical Research &amp; Reviews, 2020. <a href="https://doi.org/10.1016/j.dsx.2020.05.006">Paper ↗</a></entry>
+        <entry><b>Incidence and Risk Factors of Excess Gestational Weight Gain in Indian Women.</b> The Indian Journal of Nutrition and Dietetics, 2019. <a href="https://doi.org/10.21048/ijnd.2019.56.3.23207">Paper ↗</a></entry>
+        <entry><b>Modelling and simulating football results for prediction of a soccer tournament</b> The Indian Journal of Nutrition and Dietetics, 2019. <a href="https://doi.org/10.21048/ijnd.2019.56.3.23207">Poster ↗</a></entry>
+      </more>
+    </items>
+  </publications>
+
+  <projects>
+    <sectionLabel>OPEN SOURCE</sectionLabel>
+    <title>Ideas become&lt;br&gt;&lt;em&gt;code.&lt;/em&gt;</title>
+    <description>I believe research should be reproducible. Here are some of the repositories behind my work.</description>
+    <items>
+      <item href="https://github.com/sca-research/Multivariate-Non-profiled-Leakage-Detection" target="_blank">
+        <number>01</number>
+        <type>PYTHON · SIDE-CHANNEL · LEAKAGE DETECTION </type>
+        <title>Multivariate Non-profiled Leakage Detection</title>
+        <description>Non-specific multivariate and univariate leakage detection tests implemented across simulated and practical case studies.</description>
+      </item>
+      <item href="https://github.com/sca-research/Leakage-Certification-Made-Simple" target="_blank">
+        <number>02</number>
+        <type>PYTHON · C++ · MI</type>
+        <title>Leakage Certification Made Simple</title>
+        <description>Implementations of different mutual-information estimators considered in side-channel leakage certification.</description>
+      </item>
+      <item href="https://github.com/Palash123-4/Machine-and-Deep-Learning-in-Network-Intrusion-Detection" target="_blank">
+        <number>03</number>
+        <type>ML · DEEP LEARNING</type>
+        <title>Machine &amp; Deep Learning in Network Intrusion Detection</title>
+        <description>Anomaly-based intrusion detection using machine-learning and deep-learning binary classification techniques.</description>
+      </item>
+    </items>
+  </projects>
+
+  <experience>
+    <sectionLabel>EXPERIENCE</sectionLabel>
+    <title>A path through&lt;br&gt;&lt;em&gt;research.&lt;/em&gt;</title>
+    <jobs>
+      <job>
+        <period>2020 — NOW</period>
+        <role>Project Researcher</role>
+        <location>University of Klagenfurt · Austria</location>
+        <description>Statistical and machine-learning methods for profiled and non-profiled side-channel security evaluation.</description>
+      </job>
+      <job>
+        <period>2023 — 2026</period>
+        <role>Teaching Assistant</role>
+        <location>University of Klagenfurt · Austria</location>
+        <description> Courses: Introduction to Cybersecurity and Advanced Topics in Cybersecurity 1 &amp; 2.</description>
+      </job>
+      <job>
+        <period>2017 — 2020</period>
+        <role>Other Statistician / Research Roles</role>
+        <location>Fernandez Hospital Foundation, Indian Statistical Institute, St. Johns Research Institute · India</location>
+        <description>Clinical statistics, biostatistics and machine-learning research.</description>
+      </job>
+    </jobs>
+  </experience>
+
+  <contact>
+    <sectionLabel>CONTACT</sectionLabel>
+    <title>Have a research&lt;br&gt;problem?</title>
+    <description>I am interested in research collaborations, security evaluation, statistical methodology, and opportunities at the intersection of security and machine learning.</description>
+    <email href="mailto:aakash.chowdhury@aau.at">aakash.chowdhury@aau.at</email>
+    <links>
+      <link href="https://www.linkedin.com/in/aakash-chowdhury-a6521912a/" target="_blank">LinkedIn</link>
+      <link href="https://orcid.org/0009-0006-1469-763X" target="_blank">ORCID</link>
+      <link href="https://www.researchgate.net/profile/Aakash-Chowdhury-2" target="_blank">ResearchGate</link>
+      <link href="https://github.com/sca-research" target="_blank">GitHub</link>
+    </links>
+  </contact>
+
+  <footer>
+    <copyright>© 2026 Aakash Chowdhury</copyright>
+    <tagline>Side-channel analysis · Statistics · Security</tagline>
+  </footer>
+</portfolio>
